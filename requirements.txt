@@ -6,3 +6,4 @@ kagglehub>=0.2.0
 accelerate>=0.29.0
 sentencepiece
 protobuf
+torchvision
